@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react.hello/static/css/main.919658d8.chunk.css",
-    "main.js": "/react.hello/static/js/main.ba19e55d.chunk.js",
-    "main.js.map": "/react.hello/static/js/main.ba19e55d.chunk.js.map",
-    "runtime-main.js": "/react.hello/static/js/runtime-main.5613f78c.js",
-    "runtime-main.js.map": "/react.hello/static/js/runtime-main.5613f78c.js.map",
-    "static/js/2.07f71799.chunk.js": "/react.hello/static/js/2.07f71799.chunk.js",
-    "static/js/2.07f71799.chunk.js.map": "/react.hello/static/js/2.07f71799.chunk.js.map",
-    "index.html": "/react.hello/index.html",
-    "precache-manifest.29eac7fa25a91a434157939eb187f72a.js": "/react.hello/precache-manifest.29eac7fa25a91a434157939eb187f72a.js",
-    "service-worker.js": "/react.hello/service-worker.js",
-    "static/css/main.919658d8.chunk.css.map": "/react.hello/static/css/main.919658d8.chunk.css.map",
-    "static/js/2.07f71799.chunk.js.LICENSE.txt": "/react.hello/static/js/2.07f71799.chunk.js.LICENSE.txt",
-    "static/media/delivery-man.svg": "/react.hello/static/media/delivery-man.4948508c.svg"
+    "main.css": "/*%20https://jyotshna1212.github.io/react.hello%20*/static/css/main.919658d8.chunk.css",
+    "main.js": "/*%20https://jyotshna1212.github.io/react.hello%20*/static/js/main.b68dd7b3.chunk.js",
+    "main.js.map": "/*%20https://jyotshna1212.github.io/react.hello%20*/static/js/main.b68dd7b3.chunk.js.map",
+    "runtime-main.js": "/*%20https://jyotshna1212.github.io/react.hello%20*/static/js/runtime-main.ab3a9d24.js",
+    "runtime-main.js.map": "/*%20https://jyotshna1212.github.io/react.hello%20*/static/js/runtime-main.ab3a9d24.js.map",
+    "static/js/2.07f71799.chunk.js": "/*%20https://jyotshna1212.github.io/react.hello%20*/static/js/2.07f71799.chunk.js",
+    "static/js/2.07f71799.chunk.js.map": "/*%20https://jyotshna1212.github.io/react.hello%20*/static/js/2.07f71799.chunk.js.map",
+    "index.html": "/*%20https://jyotshna1212.github.io/react.hello%20*/index.html",
+    "precache-manifest.1e151c77288a31977361c9622cc810c7.js": "/*%20https://jyotshna1212.github.io/react.hello%20*/precache-manifest.1e151c77288a31977361c9622cc810c7.js",
+    "service-worker.js": "/*%20https://jyotshna1212.github.io/react.hello%20*/service-worker.js",
+    "static/css/main.919658d8.chunk.css.map": "/*%20https://jyotshna1212.github.io/react.hello%20*/static/css/main.919658d8.chunk.css.map",
+    "static/js/2.07f71799.chunk.js.LICENSE.txt": "/*%20https://jyotshna1212.github.io/react.hello%20*/static/js/2.07f71799.chunk.js.LICENSE.txt",
+    "static/media/delivery-man.svg": "/*%20https://jyotshna1212.github.io/react.hello%20*/static/media/delivery-man.4948508c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5613f78c.js",
+    "static/js/runtime-main.ab3a9d24.js",
     "static/js/2.07f71799.chunk.js",
     "static/css/main.919658d8.chunk.css",
-    "static/js/main.ba19e55d.chunk.js"
+    "static/js/main.b68dd7b3.chunk.js"
   ]
 }
