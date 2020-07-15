@@ -4,7 +4,7 @@ import profilepic from './delivery-man.svg'
 import data from './data.json';
 import './css/bootstrap.min.css';
 import {BrowserRouter,Route,Link} from 'react-router-dom';
-import Resume from'./resume';
+import Resume from'./resume.json';
 function Spp() {
   return (
     <BrowserRouter>
